@@ -256,7 +256,7 @@ h3 {
   position: absolute;
   right: clamp(18px, 4vw, 56px);
   bottom: clamp(18px, 4vw, 56px);
-  width: min(380px, calc(100% - 36px));
+  width: min(228px, calc(100% - 36px));
   max-width: 100%;
   padding: 18px;
   background: rgba(255, 250, 240, 0.92);
